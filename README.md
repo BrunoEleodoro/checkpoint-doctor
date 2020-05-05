@@ -1,16 +1,58 @@
-# checkpoint_doctor
 
-A new Flutter project.
 
-## Getting Started
+--------------------------------------------------------------------
 
-This project is a starting point for a Flutter application.
+<img src="assets/icon/icon.png"/>
 
-A few resources to get you started if this is your first Flutter project:
+## 📖 Projeto Checkpoint
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+O Checkpoint é uma solução que centraliza os dados do paciente no Blockchain através de um Smart Contract retirando estes dados das mãos das operadoras para o paciente. No entanto, este compartilhará os dados com as operadoras e profissionais da saúde para que a prestação do serviço seja eficiente e assim a relação é mais justa e dinâmica, evitando também perda e reinserção de dados.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## 🚀 Utilização
+
+<h3>Desenvolvido em Flutter</h3>
+<ul>
+	<li>Utilizamos as APIS de QRCode e WEB3 para ler os dados do paciente e registrar no blockchain</li>
+</ul>
+
+## Integrações com apis
+
+<h3>Api da Gr1d</h3>
+<ul>
+	<li>Validação do usuário por meios dos dados informados</li>
+</ul>
+
+<h3>Api da twilio</h3>
+<ul>
+	<li>Validação de Código de seguração do cadastro por sms</li>
+</ul>
+
+## ✍ Autores
+
+👤 **Victor Bilis**
+
+* Github: [@victorbilisambipar](https://github.com/victorbilisambipar)
+
+👤 **Paulo Victor**
+
+* Github: [@paulovictorBraw](https://github.com/paulovictorBraw)
+
+👤 **Felipe Candian**
+
+* Github: [@felipecandian]( https://github.com/felipecandian)
+
+👤 **Bruno Eleodoro**
+
+* Github: [@BrunoEleodoro]( https://github.com/BrunoEleodoro)
+
+👤 **Rodrigo Temoteo**
+
+* Github: [@rodrigoatemoteo]( https://github.com/rodrigoatemoteo)
+
+## 📝 Licença
+
+Copyright © 2020 Checkpoint<br />
+
+***
+
