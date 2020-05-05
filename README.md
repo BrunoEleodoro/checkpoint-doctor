@@ -16,18 +16,6 @@ O Checkpoint é uma solução que centraliza os dados do paciente no Blockchain 
 	<li>Utilizamos as APIS de QRCode e WEB3 para ler os dados do paciente e registrar no blockchain</li>
 </ul>
 
-## Integrações com apis
-
-<h3>Api da Gr1d</h3>
-<ul>
-	<li>Validação do usuário por meios dos dados informados</li>
-</ul>
-
-<h3>Api da twilio</h3>
-<ul>
-	<li>Validação de Código de seguração do cadastro por sms</li>
-</ul>
-
 ## ✍ Autores
 
 👤 **Victor Bilis**
