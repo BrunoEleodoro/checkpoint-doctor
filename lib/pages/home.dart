@@ -29,7 +29,7 @@ class _HomePageState extends State<HomePage> {
 
   @override
   Widget build(BuildContext context) {
-    // print(address);
+    print(address);
     return Scaffold(
       body: SingleChildScrollView(
         child: Column(

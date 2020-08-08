@@ -45,7 +45,7 @@ class _CheckPointPageState extends State<CheckPointPage> {
       final contract = DeployedContract(
           ContractAbi.fromJson(abi, "StandardTOken"),
           EthereumAddress.fromHex(
-              "0x2C4e20CE742FA3Fc194B5fB0745Fe90ca81cb807"));
+              "0xEE3f7ac5BEE1388ca89d01A55F02CF93f3003869"));
       Credentials credentials =
           EthPrivateKey.fromHex('0x' + prefs.getString('privKey'));
       var transfer = contract.function('performAction');
@@ -90,7 +90,7 @@ class _CheckPointPageState extends State<CheckPointPage> {
 
   @override
   Widget build(BuildContext context) {
-    // print(prefs.getString('privKey'));
+    print(prefs.getString('pubKey'));
     // print([
     //                 widget.patientKey,
     //                 "Nome do Hospital X",
