@@ -4,7 +4,7 @@
 
 <img src="assets/icon/icon.png"/>
 
-## 📖 Projeto Checkpoint
+## 📖 Projeto Checkpoint - Doctor
 
 O Checkpoint é uma solução que centraliza os dados do paciente no Blockchain através de um Smart Contract retirando estes dados das mãos das operadoras para o paciente. No entanto, este compartilhará os dados com as operadoras e profissionais da saúde para que a prestação do serviço seja eficiente e assim a relação é mais justa e dinâmica, evitando também perda e reinserção de dados.
 
